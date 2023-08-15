@@ -1,5 +1,5 @@
 {
-	"name": "api-proxy-server",
+	"name": "real-time-trains-node-api",
 	"version": "1.0.0",
 	"description": "Proxy server to hide public API keys with rate limiting, caching",
 	"main": "index.js",
@@ -7,7 +7,7 @@
 		"start": "node index",
 		"dev": "nodemon index"
 	},
-	"author": "Brad Traversy",
+	"author": "Ollie Norris",
 	"license": "MIT",
 	"dependencies": {
 		"apicache": "^1.6.2",
