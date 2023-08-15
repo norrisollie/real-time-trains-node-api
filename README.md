@@ -11,7 +11,7 @@ To use:
 
 - To show live departures from a station:
 
-`.../search/{CRS CODE}`
+  `.../search/{CRS CODE}`
 
 - To show a train service info, e.g calling points etc:
 
