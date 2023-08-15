@@ -1,6 +1,6 @@
 # Real Time Trains Proxy API using Node JS
 
-A Node JS App to create an API to get train times and service information from
+A Node JS/Express app to create a basic API using data from
 [Real Time Trains](https://realtimetrains.co.uk).
 
 To use:
